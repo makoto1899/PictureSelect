@@ -33,7 +33,7 @@ OS標準の「プログラムのアンインストール」から「PictureSelec
 
 * ソースコード一式は、Github にあります。 
 [https://github.com/hamaguchi/PictureSelect
-](https://github.com/hamaguchi/PictureSelect)
+](https://github.com/makoto1899/PictureSelect)
 
 * 不具合、ご要望、不明な点、まちがった英語等がございましたら、次のmailアドレスへご一報頂ければ幸いです。E-mail:	[makoto@dive-in.to](mailto:makoto@dive-in.to)
 
